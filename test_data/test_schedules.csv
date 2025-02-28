@@ -1,0 +1,17 @@
+Shift Code,Shift Start Time,First Break Start Time,First Break End Time,Lunch Start Time,Lunch End Time,Second Break Start Time,Second Break End Time,Third Break Time Start Time,Third Break Time End Time,Shift End Time
+ShiftOne,Sunday 07:00,Sunday 09:30,Sunday 09:45,Sunday 11:45,Sunday 12:15,Sunday 14:45,Sunday 15:00,n/a,n/a,Sunday 17:30
+ShiftOne,Monday 07:00,Monday 09:30,Monday 09:45,Monday 11:45,Monday 12:15,Monday 14:45,Monday 15:00,n/a,n/a,Monday 17:30
+ShiftOne,Tuesday 07:00,Tuesday 09:30,Tuesday 09:45,Tuesday 11:45,Tuesday 12:15,Tuesday 14:45,Tuesday 15:00,n/a,n/a,Tuesday 17:30
+ShiftOne,Wednesday 07:00,Wednesday 09:30,Wednesday 9:45,Wednesday 11:45,Wednesday 12:15,Wednesday 14:45,Wednesday 15:00,n/a,n/a,Wednesday 17:30
+ShiftTwo,Wednesday 07:00,Wednesday 09:30,Wednesday 9:45,Wednesday 11:45,Wednesday 12:15,Wednesday 14:45,Wednesday 15:00,n/a,n/a,Wednesday 17:30
+ShiftTwo,Thursday 07:00,Thursday 09:30,Thursday 09:45,Thursday 11:45,Thursday 12:15,Thursday 14:45,Thursday 15:00,n/a,n/a,Thursday 17:30
+ShiftTwo,Friday 07:00,Friday 09:30,Friday 09:45,Friday 11:45,Friday 12:15,Friday 14:45,Friday 15:00,n/a,n/a,Friday 17:30
+ShiftTwo,Saturday 07:00,Saturday 09:30,Saturday 09:45,Saturday 11:45,Saturday 12:15,Saturday 14:45,Saturday 15:00,n/a,n/a,Saturday 17:30
+ShiftThree,Wednesday 18:00,Wednesday 20:30,Wednesday 20:45,Wednesday 22:45,Wednesday 23:15,Thursday 01:45,Thursday 02:00,n/a,n/a,Thursday 04:30
+ShiftThree,Thursday 18:00,Thursday 20:30,Thursday 20:45,Thursday 22:45,Thursday 23:15,Friday 01:45,Friday 02:00,n/a,n/a,Friday 04:30
+ShiftThree,Friday 18:00,Friday 20:30,Friday 20:45,Friday 22:45,Friday 23:15,Saturday 01:45,Saturday 02:00,n/a,n/a,Saturday 04:30
+ShiftThree,Saturday 18:00,Saturday 20:30,Saturday 20:45,Saturday 22:45,Saturday 23:15,Sunday 01:45,Sunday 02:00,n/a,n/a,Sunday 04:30
+ShiftFour,Sunday 18:00,Sunday 20:30,Sunday 20:45,Sunday 22:45,Sunday 23:15,Monday 01:45,Monday 02:00,n/a,n/a,Monday 04:30
+ShiftFour,Monday 18:00,Monday 20:30,Monday 20:45,Monday 22:45,Monday 23:15,Tuesday 01:45,Tuesday 02:00,n/a,n/a,Tuesday 04:30
+ShiftFour,Tuesday 18:00,Tuesday 20:30,Tuesday 20:45,Tuesday 22:45,Tuesday 23:15,Wednesday 01:45,Wednesday 02:00,n/a,n/a,Wednesday 04:30
+ShiftFour,Wednesday 18:00,Wednesday 20:30,Wednesday 20:45,Wednesday 22:45,Wednesday 23:15,Thursday 01:45,Thursday 02:00,n/a,n/a,Thursday 04:30

@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fb9c17cb-e433-411a-9497-6d1a7b4af1eb)
 # Jammer Time
 
 I ultimately wrote this program to precisely measure the monetary cost of package sortation machine jams at my workplace. For some reason, there was no existing program that did this. Believe it or not, I was so motivated by spite from the incessant jams that I learned to code just to make this program a reality.  

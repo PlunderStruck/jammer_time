@@ -20,7 +20,7 @@ Another issue was building closures for maintenance and holidays. My solution to
 
 ### **Improving Performance with Vectorization**  
 
-Another major challenge was making the script efficient. Initially, I used **`iterrows()`** to loop through each row of data when merging machine data with the schedule data and when checking which shift a row belonged to. **This was SLOW AS HELL.**  
+Another major challenge was making the script efficient. Initially, I used **`iterrows()`** to loop through each row of data when merging machine data with the schedule data and when checking which shift a row belonged to. **This was SUPER SLOW.**  
 
 Since I needed the script to process years of data efficiently, I had to find a better solution. Eventually, I discovered vectorization and implemented it where needed. Now, the script can process a full year's worth of data in about one minute.  
 
